@@ -1,8 +1,7 @@
 package main
 
 import (
-	// "github.com/UmaSantharam001/iqapp/rest"
-	"../rest"
+	 "github.com/UmaSantharam001/iqapp/rest"
 )
 
 func main() {
