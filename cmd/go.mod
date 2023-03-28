@@ -4,5 +4,5 @@ go 1.20
 
 
 require (
-	github.com/UmaSantharam001/iqapp/rest v0.1.0
+	github.com/UmaSantharam001/iqapp/rest v0.1.1
 )
